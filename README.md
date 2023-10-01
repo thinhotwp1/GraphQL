@@ -6,6 +6,8 @@
 ![image](https://github.com/thinhotwp1/GraphQL/assets/61654110/df238b3c-653e-424c-a4ac-419559fec79a)
 
 
+# Coppy lệnh dưới vào http://localhost:8080/graphiql?path=/graphql để xem cách graphql mapping dữ liệu !
+
 ```
 # Coppy to http://localhost:8080/graphiql?path=/graphql to see how it work !
 query graphql {
