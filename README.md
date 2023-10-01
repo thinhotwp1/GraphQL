@@ -1,5 +1,38 @@
 # GraphQL
-GraphQL sample
+㊗️ GraphQL hiệu quả với những service yêu cầu về hiệu suất và tổng hợp data về một mối, ví dụ tìm user theo id kèm thông tin cá nhân và tất cả bài post facebook của user đó
 
-GraphQL là một ngôn ngữ truy vấn và một mô hình dựa trên HTTP cho phép bạn yêu cầu dữ liệu cụ thể mà bạn cần từ một API. GraphQL cho phép bạn truy vấn dữ liệu bằng cách chỉ định cụ thể những trường dữ liệu bạn muốn lấy, giúp tránh tình trạng over-fetching (lấy nhiều dữ liệu không cần thiết) và under-fetching (lấy quá ít dữ liệu) mà thường gặp khi sử dụng REST API. Một trong những điểm mạnh của GraphQL là khả năng tự mô tả, nó cho phép bạn xem tất cả các trường và khả năng truy vấn của API trong một tài liệu duy nhất (thường là một tài liệu Schema).
+🍇 Sử dụng GraphQL lấy ra những trường cần thiết, không gây thừa thiếu dữ liệu, tăng hiệu suất và sử dụng làm tổng hợp dữ liệu: báo cáo, mapping dữ liệu, ... 
+
+
+![image](https://github.com/thinhotwp1/GraphQL/assets/61654110/760c30ca-37b9-47fd-9146-00ab076ed5f7)
+
+```
+# Coppy to http://localhost:8080/graphiql?path=/graphql to see how it work !
+query graphql {
+  UserById(id: "1") {
+    id
+    name
+    username
+    address {
+      street
+      suite
+      city
+      zipcode
+    }
+    phone
+    website
+    username
+    company {
+      name
+      catchPhrase
+      bs
+    }
+    posts {
+      id
+      title
+      body
+    }
+  }
+}
+```
 
