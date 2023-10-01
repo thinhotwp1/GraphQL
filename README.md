@@ -3,8 +3,8 @@
 
 🍇 Sử dụng GraphQL lấy ra những trường cần thiết, không gây thừa thiếu dữ liệu, tăng hiệu suất và sử dụng làm tổng hợp dữ liệu: báo cáo, mapping dữ liệu, ... 
 
+![image](https://github.com/thinhotwp1/GraphQL/assets/61654110/df238b3c-653e-424c-a4ac-419559fec79a)
 
-![image](https://github.com/thinhotwp1/GraphQL/assets/61654110/760c30ca-37b9-47fd-9146-00ab076ed5f7)
 
 ```
 # Coppy to http://localhost:8080/graphiql?path=/graphql to see how it work !
