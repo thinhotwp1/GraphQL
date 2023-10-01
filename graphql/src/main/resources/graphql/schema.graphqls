@@ -1,17 +1,35 @@
 type Query {
-  bookById(id: ID): Book
+    UserById(id: ID): User
 }
 
-type Book {
-  id: ID
-  name: String
-  pageCount: Int
-  author: Author
+type User {
+    id: ID
+    name: String
+    username: String
+    address: Address
+    phone: String
+    website: String
+    company: Company
+    posts: [Post]
+}
+type Address {
+    street: String
+    suite: String
+    city: String
+    zipcode: String
 }
 
-type Author {
-  id: ID
-  firstName: String
-  lastName: String
+type Company {
+    name: String
+    catchPhrase: String
+    bs: String
+}
+
+
+type Post {
+    id: ID
+    title: String
+    userId: String
+    body: String
 }
 

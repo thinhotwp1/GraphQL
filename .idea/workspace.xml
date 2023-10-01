@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d77045d9-39a8-467f-ac4b-471251357d83" name="Changes" comment="delete">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphql/src/main/java/com/example/graphql/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphql/src/main/java/com/example/graphql/model/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphql/src/main/java/com/example/graphql/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphql/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphql/src/main/resources/graphql/schema.graphqls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphql/src/main/resources/graphql/schema.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/graphql/src/main/resources/graphql/schema.graphqls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +30,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/Code/agrapql/GraphQL",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -66,6 +61,8 @@
       <workItem from="1695488229153" duration="264000" />
       <workItem from="1696168923032" duration="113000" />
       <workItem from="1696169835654" duration="7000" />
+      <workItem from="1696175425220" duration="39000" />
+      <workItem from="1696175471760" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="delete">
       <created>1696168949105</created>
@@ -79,6 +76,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delete" />

@@ -1,0 +1,27 @@
+query graphql {
+  UserById(id: "1") {
+    id
+    name
+    username
+    address {
+      street
+      suite
+      city
+      zipcode
+    }
+    phone
+    website
+    username
+    company {
+      name
+      catchPhrase
+      bs
+    }
+    posts {
+      id
+      title
+    }
+  }
+}
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
