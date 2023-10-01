@@ -23,9 +23,3 @@ query graphql {
   }
 }
 ```
-
-
-
-🔢 Switch to branch /advance_graphql to see more
-
-![image](https://github.com/thinhotwp1/GraphQL/assets/61654110/760c30ca-37b9-47fd-9146-00ab076ed5f7)
