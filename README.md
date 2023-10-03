@@ -1,3 +1,5 @@
+❔ Ở nhánh advance_graphql này, sẽ lấy ví dụ của việc tổng hợp dữ liệu và cho phép query dựa theo schema đã tạo.
+
 # GraphQL
 ㊗️ GraphQL hiệu quả với những service yêu cầu về hiệu suất và tổng hợp data về một mối, ví dụ tìm user theo id kèm thông tin cá nhân và tất cả bài post facebook của user đó
 
