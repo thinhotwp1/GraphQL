@@ -9,8 +9,7 @@ GraphQL with Java Spring Boot 🐐
 
 👯‍♂️ Coppy đoạn truy vấn sau vào http://localhost:8080/graphiql?path=/graphql để xem cách graphql hoạt động:
 ```
-#query graphql = query [my_project], example: query my_project{...}
-query graphql {
+query newQuery {
   bookById(id: "book-1") {
     id
     name
