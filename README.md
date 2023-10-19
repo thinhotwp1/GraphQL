@@ -1,3 +1,6 @@
+
+Link drive: https://docs.google.com/document/d/10PlrSo2tZR2V1D5t8fWTfSnJC6rGCnYpoIpgOCtrkmM/edit?usp=sharing
+
 ❔ Ở nhánh advance_graphql này, sẽ lấy ví dụ của việc tổng hợp dữ liệu và cho phép query dựa theo schema đã tạo.
 
 # GraphQL
