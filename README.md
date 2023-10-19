@@ -1,4 +1,7 @@
 # GraphQL
+
+Link drive: https://docs.google.com/document/d/10PlrSo2tZR2V1D5t8fWTfSnJC6rGCnYpoIpgOCtrkmM/edit?usp=sharing
+
 GraphQL with Java Spring Boot 🐐
 
 👘 GraphQL là một ngôn ngữ truy vấn và một mô hình dựa trên HTTP cho phép bạn yêu cầu dữ liệu cụ thể mà bạn cần từ một API. GraphQL cho phép truy vấn dữ liệu bằng cách chỉ định cụ thể những trường dữ liệu muốn lấy, giúp tránh tình trạng over-fetching (lấy nhiều dữ liệu không cần thiết) và under-fetching (lấy quá ít dữ liệu) mà thường gặp khi sử dụng REST API.
