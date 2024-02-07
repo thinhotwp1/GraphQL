@@ -10,7 +10,7 @@ GraphQL with Java Spring Boot 🐐
 
 ![image](https://github.com/thinhotwp1/GraphQL/assets/61654110/e4c30d59-9a01-4ab6-a888-fd0643ae24c4)
 
-👯‍♂️ Chạy project, coppy đoạn truy vấn sau vào http://localhost:8080/graphiql?path=/graphql để xem cách graphql hoạt động:
+👯‍♂️ Chạy project, coppy đoạn truy vấn sau vào ```http://localhost:8080/graphiql?path=/graphql``` để xem cách graphql hoạt động:
 ```
 query newQuery {
   bookById(id: "book-1") {
